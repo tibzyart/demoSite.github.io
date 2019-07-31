@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.tibetegya.app",
+               "sha256_cert_fingerprints": ["D7:0F:17:95:30:55:08:3D:4D:74:F5:66:17:4D:0B:C3:94:83:AB:D8:55:68:68:7A:AA:F5:DE:B5:74:6E:48:C7"] }
+}]
