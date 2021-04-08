@@ -63,7 +63,7 @@ body {
   }
 }
 #my-picture {
-  position: absolute;
+  position: fixed;
   right: 0;
   bottom: 0;
   @media screen and (max-width: 866px) {
